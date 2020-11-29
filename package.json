@@ -1,0 +1,23 @@
+{
+  "name": "algorithm-ts",
+  "version": "1.0.0",
+  "description": "leetcode 和 剑指 offer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zqcxxx/algorithm-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zqcxxx/algorithm-ts/issues"
+  },
+  "homepage": "https://github.com/zqcxxx/algorithm-ts#readme",
+  "dependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  }
+}
